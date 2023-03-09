@@ -1,4 +1,6 @@
-  "user": {
-    "id": 10,
-    "name": "admin"
-  }
+  "users": [
+    {
+      "id": 10,
+      "name": "admin"
+    }
+  ]
